@@ -4,6 +4,8 @@
   "description": "",
   "homepage": "https://WT-Journey.github.io/wt-js-02-color-switcher-timer",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /wt-js-02-color-switcher-timer/"
   },
