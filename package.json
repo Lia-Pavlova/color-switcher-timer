@@ -2,7 +2,7 @@
   "name": "wt-js-02-color-switcher-timer",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://WT-Journey.github.io/wt-js-02-color-switcher-timer",
+  "homepage": "https://Lia-Pavlova.github.io/wt-js-02-color-switcher-timer",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WT-Journey/wt-js-02-color-switcher-timer.git"
+    "url": "git+https://github.com/Lia-Pavlova/wt-js-02-color-switcher-timer.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/WT-Journey/wt-js-02-color-switcher-timer/issues"
+    "url": "https://github.com/Lia-Pavlova/wt-js-02-color-switcher-timer/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
